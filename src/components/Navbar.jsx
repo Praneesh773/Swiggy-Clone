@@ -10,7 +10,7 @@ export default function Navbar({ cartCount }) {
         <div className="navbar-left">
           <div className="logo">
             <span className="logo-emoji">🍔</span>
-            <span className="logo-text">Swiggy</span>
+            <span className="logo-text">Rammyyy</span>
           </div>
           <div className="location">
             <span className="location-icon">📍</span>
